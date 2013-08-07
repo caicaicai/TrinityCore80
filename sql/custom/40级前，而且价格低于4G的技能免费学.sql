@@ -1,0 +1,1 @@
+update npc_trainer set spellcost = 0 where spellcost <40001 and reqlevel  <41 ; 

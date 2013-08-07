@@ -1,0 +1,1 @@
+UPDATE `item_template` SET stackable = 999 where stackable > 1 ;

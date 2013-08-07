@@ -1,0 +1,1 @@
+REPLACE INTO `rbac_account_groups` SELECT id,1,-1 FROM `account`;
